@@ -1,0 +1,18 @@
+# Automated Robotic Warehouse - Simulation Configuration
+# -------------------------------------------------------
+# Tile key: W=Wall  F=Floor  S=Shelf  P=Packing  C=Charging
+#
+WIDTH 10
+HEIGHT 8
+NUM_ROBOTS 3
+TIME_LIMIT 100.0
+AVG_ORDER_INTERVAL 5.0
+MAP
+WWWWWWWWWW
+WSFSFSFSFW
+WFFFFFFFFW
+WPFFFFFFPW
+WFFFFFFFFW
+WSFSFSFSFW
+WCFFFFFFCW
+WWWWWWWWWW
