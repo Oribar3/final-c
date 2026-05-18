@@ -1,0 +1,7 @@
+# Build output
+bin/
+*.o
+
+# Runtime output
+logs/
+
