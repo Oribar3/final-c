@@ -15,7 +15,7 @@
  *     a secondary 2D allocation and improves cache locality.
  */
 
-#include "pathfinding.h"
+#include "../include/pathfinding.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

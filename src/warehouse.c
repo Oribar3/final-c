@@ -9,7 +9,7 @@
  * for a proper dynamic matrix with explicit memory management.
  */
 
-#include "warehouse.h"
+#include "../include/warehouse.h"
 #include <stdio.h>
 #include <stdlib.h>
 

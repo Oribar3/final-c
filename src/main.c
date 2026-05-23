@@ -22,14 +22,14 @@
 #include <string.h>
 #include <time.h>
 
-#include "types.h"
-#include "warehouse.h"
-#include "pathfinding.h"
-#include "order.h"
-#include "robot.h"
-#include "stats.h"
-#include "event.h"
-#include "fileio.h"
+#include "../include/types.h"
+#include "../include/warehouse.h"
+#include "../include/pathfinding.h"
+#include "../include/order.h"
+#include "../include/robot.h"
+#include "../include/stats.h"
+#include "../include/event.h"
+#include "../include/fileio.h"
 
 /* ============================================================
  * Forward Declarations

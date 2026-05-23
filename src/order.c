@@ -8,7 +8,7 @@
  * embedded in struct Order, avoiding a separate wrapper node allocation.
  */
 
-#include "order.h"
+#include "../include/order.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

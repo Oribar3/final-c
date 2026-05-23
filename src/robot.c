@@ -7,7 +7,7 @@
  * the idle-robot search used by the event system to dispatch orders.
  */
 
-#include "robot.h"
+#include "../include/robot.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

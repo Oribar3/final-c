@@ -15,8 +15,8 @@
  * and handle_robot_charging_complete.
  */
 
-#include "event.h"
-#include "fileio.h"    /* save_event_log_entry */
+#include "../include/event.h"
+#include "../include/fileio.h"    /* save_event_log_entry */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -16,12 +16,12 @@
  * argument is the only portable way to print to two destinations.
  */
 
-#include "fileio.h"
-#include "warehouse.h"
-#include "robot.h"
-#include "order.h"
-#include "stats.h"
-#include "event.h"      /* create_fel */
+#include "../include/fileio.h"
+#include "../include/warehouse.h"
+#include "../include/robot.h"
+#include "../include/order.h"
+#include "../include/stats.h"
+#include "../include/event.h"      /* create_fel */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

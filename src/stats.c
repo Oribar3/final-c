@@ -10,8 +10,8 @@
  * without duplicating the format strings.
  */
 
-#include "stats.h"
-#include "robot.h"
+#include "../include/stats.h"
+#include "../include/robot.h"
 #include <stdio.h>
 #include <stdlib.h>
 
